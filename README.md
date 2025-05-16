@@ -77,10 +77,23 @@ I have completed over 15 certifications with a focus on:
 
 
 ### 📊 GitHub Stats
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IBN-Fouad&show_icons=true&theme=tokyonight" alt="Ahmed's GitHub Stats">
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IBN-Fouad&theme=tokyonight" alt="Ahmed's Streak Stats"/>
 </p>
 
@@ -90,6 +103,7 @@ I have completed over 15 certifications with a focus on:
 
 - 📧 Email: ibn.fouad.dev@gmail.com  
 - 💼 LinkedIn: [Ahmed Fouad](https://www.linkedin.com/in/ahmed-fouad-programmer-015069227)
+- 📞 WhatsApp: [Ahmed Fouad](https://wa.me/+201027797841 "target=_blank")
 
 ---
 
